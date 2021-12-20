@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdallahMarei&style=plastic&label=Profile+visits&color=red"alt="Ghassan Profile visits" /> </p>
 <p align="center">
 <img alt="Night Coding" src="./assets/wave-hello.gif" width='40' align="left" />
 <h2>Hey there! I'm Abdallah</h2>
@@ -29,8 +30,8 @@
 
 <p align="center">
 
-<a href="https://github.com/azmitammam">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbdallahMarei&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Azmi Github Status logo" />
+<a href="https://github.com/AbdallahMarei">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbdallahMarei&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Abdallah Github Status logo" />
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdallahMarei&layout=compact&langs_count=8&theme=algolia" />
 </a>
 </p>
