@@ -41,7 +41,7 @@
 <p align="center">
 
 <a href="https://github.com/AbdallahMarei"> <img src="https://img.shields.io/github/followers/AbdallahMarei?style=social" alt="Github Logo"></a>
-<a href="mailto:abdullahmari@gmail.com"><img src="https://img.shields.io/badge/-abdullahmari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/azmitammam/"><img src="https://img.shields.io/badge/-Azmi%20Tammam-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a><a href="https://dev.to/azmitammam"><img src="https://img.shields.io/badge/-AzmiTammam-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
+<a href="mailto:abdullahmari@gmail.com"><img src="https://img.shields.io/badge/-abdullahmari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/abdallah-marei/"><img src="https://img.shields.io/badge/-Abdallah%20Marei-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 
 </p>
 </a>
