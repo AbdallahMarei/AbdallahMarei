@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdallahMarei&style=plastic&label=Profile+visits&color=red"alt="Ghassan Profile visits" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdallahMarei&style=plastic&label=Profile+visits&color=red"alt="Abdallah Profile visits" /> </p>
 <p align="center">
 <img alt="Night Coding" src="./assets/wave-hello.gif" width='40' align="left" />
 <h2>Hey there! I'm Abdallah</h2>
@@ -40,8 +40,8 @@
 
 <p align="center">
 
-<a href="https://github.com/AzmiTammam"> <img src="https://img.shields.io/github/followers/AzmiTammam?style=social" alt="Github Logo"></a>
-<a href="https://twitter.com/intent/follow?screen_name=azzmmii"> <img src="https://img.shields.io/twitter/follow/Azzmmii?style=social" alt="twitter Logo"></a><a href="mailto:azmitammam@gmail.com"><img src="https://img.shields.io/badge/-AzmiTammam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/azmitammam/"><img src="https://img.shields.io/badge/-Azmi%20Tammam-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a><a href="https://dev.to/azmitammam"><img src="https://img.shields.io/badge/-AzmiTammam-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
+<a href="https://github.com/AbdallahMarei"> <img src="https://img.shields.io/github/followers/AbdallahMarei?style=social" alt="Github Logo"></a>
+<a href="mailto:abdullahmari@gmail.com"><img src="https://img.shields.io/badge/-abdullahmari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/azmitammam/"><img src="https://img.shields.io/badge/-Azmi%20Tammam-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a><a href="https://dev.to/azmitammam"><img src="https://img.shields.io/badge/-AzmiTammam-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
 
 </p>
 </a>
