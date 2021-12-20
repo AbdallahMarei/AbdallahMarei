@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Abdallah 
+![js](https://user-images.githubusercontent.com/90200082/146806851-574f04d0-074f-4f51-9553-d44575f7c9d8.gif)
 
 <!--
 **AbdallahMarei/AbdallahMarei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
